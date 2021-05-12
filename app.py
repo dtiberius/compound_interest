@@ -3,7 +3,7 @@ from calculator import monthly_compound_interest
 
 st.title("Compound Interest Calculator")
 
-initial = st.number_input('Initial inestment', min_value=0, max_value=200000000)
+initial = st.number_input('Initial investment', min_value=0, max_value=200000000)
 monthly = st.number_input('Monthly deposit', min_value=0, max_value=200000000)
 years = st.number_input('Years investing', min_value=0, max_value=100000)
 annual_rate = st.number_input('Estimated annual percentage rate of return: ', min_value=0, max_value=1000)
