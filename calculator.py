@@ -1,5 +1,5 @@
 '''
-App: How rich will I be?
+App: How rich will I be??
 Function: Calculates compound interest (applied monthly), based on custom user input.
 Author: Dan Welsh
 '''
